@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: 0;
+  list-style: none;
+  outline: none;
+}
+
+:root {
+  --blue: #7216f2;
+}
+
+body {
+  margin: auto;
+  max-width: 1900px;
+  font-family: Roboto, sans-serif;
+  background-color: #010b23;
+  background-repeat: no-repeat;
+}
+
+body,
+input,
+textarea,
+select,
+button {
+  font: 400 1rem sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: #ccc;
+  text-decoration: none;
+}
