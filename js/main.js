@@ -14,5 +14,8 @@ function scroll() {
 }
 
 window.addEventListener("resize", () => {
-  if (window.innerWidth > 680) nav.style.display = "none";
+  if (window.innerWidth > 680) {
+    nav.style.display = "none";
+    document.querySelector("body").style.overflow = "visible";
+  }
 });
