@@ -10,7 +10,7 @@ Este portfólio apresenta os projetos que desenvolvi, destacando as habilidades 
 
 ## Como Acessar
 
-https://deyvid-22.github.io/challeng-portifolio-oracle/
+https://portifolio-one-opal-65.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/28e53a86-fecf-4ac7-aa5d-29f94cda1361)
 
